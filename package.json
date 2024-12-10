@@ -1,17 +1,17 @@
 {
-    "title": "Name of the extension",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample extension.",
+    "title": "Actual Terminal",
+    "name": "github-Timmm96-PeonixCode",
+    "description": "I'm hoping to make a Terminal extension that actually works.",
     "version": "0.0.1",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "author": "Timothy Glenn (https://github.com/Timmm96)",
+    "homepage": "https://github.com/Timmm96",
     "engines": {
         "brackets": ">=2.0.0"
     },
     "categories": "demo",
     "keywords": [
-        "phcode", "extension", "demo"
+        "terminal", "shell", "cmd"
     ],
     "files": [
         "main.js"
